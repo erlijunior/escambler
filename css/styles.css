@@ -1,0 +1,62 @@
+/* Estilos Globais
+------------------------*/
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Lobster Two', cursive;
+  font-weight: 400;
+}
+
+
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 40px;
+	margin-top: 0;
+}
+
+.content-wrap {
+	max-width: 950px;
+	margin: 0 auto;
+	padding: 50px;
+/*	overflow: auto;*/
+}
+
+/* Header
+------------------------*/
+
+header {
+  background: lightblue;
+}
+
+header h1{
+	margin: 0;
+}
+
+/* Footer
+------------------------*/
+
+footer {
+	text-align: center;
+}
+
+
+/* APP
+------------------------*/
+
+
+/* Como Funciona
+------------------------*/
+
+
+/* Quem somos
+------------------------*/
+
+/* Duvidas
+
+------------------------*/
